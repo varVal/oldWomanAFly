@@ -1,0 +1,31 @@
+#oldWoman{
+  width : 400px;
+  height : 270px;
+  border : 0px solid rgb(0, 0, 0);
+}
+#oldWomanHead{
+  position : relative;
+  width : 30px;
+  height : 30px;
+  padding : 0px;
+  margin: 0 auto;
+  border : 3px solid rgb(0, 0, 0);
+  border-radius : 80%;
+  z-index: 2;
+}
+#oldWomanStomach{
+  width : 5px;
+  height : 20px;
+  padding : 15px;
+  border : 1px solid rgb(0, 0, 0);
+  border-radius : 40%;
+  overflow : hidden;
+}
+#oldWomanTorso{
+  position : relative;
+  width : 35px;
+  height : 210px;
+  padding : 5px;
+  border : 2px solid rgb(0, 0, 0);
+  border-radius : 20%;
+}
