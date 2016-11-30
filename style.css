@@ -15,8 +15,8 @@
   z-index: 2;
 }
 #oldWomanStomach{
-  width : 72%;
-  height : 75%;
+  width : 75%;
+  height : 60%;
   padding : 15px;
   border : 1px solid rgb(0, 0, 0);
   border-radius : 40%;
@@ -24,7 +24,7 @@
 }
 #oldWomanTorso{
   position : relative;
-  width : 35%;
+  width : 70%;
   height : 210px;
   padding : 5px;
   margin :  -15px auto 0px auto;
